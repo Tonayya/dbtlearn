@@ -1,0 +1,5 @@
+{
+    "explorer.fileNesting.enabled": true,
+    "scm.defaultViewMode": "tree",
+    "workbench.tree.enableStickyScroll": false
+}
